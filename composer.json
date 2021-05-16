@@ -1,0 +1,25 @@
+{
+    "name" : "net-tools/gd-indexed-color-converter",
+	
+    "description" : "Composer library gd-indexed-color-converter",
+	
+	"type": "library",
+	
+	"require" : {
+	},
+	
+    "license" : "MIT",
+
+    "authors": [
+        {
+            "name": "Pierre",
+            "email": "dev@nettools.ovh",
+            "role": "Developer"
+        },
+		{
+			"name":"https://github.com/ccpalettes/gd-indexed-color-converter",
+			"role":"Developer"
+		}
+    ]
+
+}
