@@ -8,6 +8,10 @@
 	"require" : {
 	},
 	
+	"autoload": {
+        "files": ["src/GDIndexedColorConverter.php"]
+    },
+	
     "license" : "MIT",
 
     "authors": [
